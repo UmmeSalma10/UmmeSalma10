@@ -12,6 +12,10 @@
 
 ---
 
+<table>
+<tr>
+<td width="58%" valign="top">
+
 ## 👋 Hi, I'm Umme Salma
 
 I'm an **AI literacy & career coach** and **Head of Quality Engineering** with **15+ years in tech**.
@@ -19,6 +23,17 @@ I'm an **AI literacy & career coach** and **Head of Quality Engineering** with *
 My path into technology started with artificial intelligence: a master's thesis on machine learning with Hidden Markov Models, research on neural networks, and later a research role at a German university. Since then I've worked from **Samsung R&D** to leading **AI enablement at Bauer Media Group**, where I founded an AI hackathon programme and trained **100+ editors** to work with AI.
 
 Today I help **students, career changers and teams** use AI with logic and purpose, and find their next step.
+
+</td>
+<td width="42%" align="center" valign="middle">
+
+<img src="assets/cognitive-twin.gif" alt="My cognitive twin: a woman's face made of dots, half human and half AI" width="100%">
+
+<sub><b>My cognitive twin</b>: half human, half AI.<br>It thinks <i>with</i> me, not instead of me.</sub>
+
+</td>
+</tr>
+</table>
 
 > *"You don't need a perfect start. You need a first step and someone who has walked the road."*
 
