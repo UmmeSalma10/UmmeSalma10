@@ -18,7 +18,7 @@
 
 ## 👋 Hi, I'm Umme Salma
 
-I'm an **AI literacy & career coach** and **Head of Quality Engineering** with **15+ years in tech**.
+I'm an **engineering and transformation leader** and an **AI literacy & career coach** with **15+ years in tech**.
 
 My path into technology started with artificial intelligence: a master's thesis on machine learning with Hidden Markov Models, research on neural networks, and later a research role at a German university. Since then I've worked from **Samsung R&D** to leading **AI enablement at Bauer Media Group**, where I founded an AI hackathon programme and trained **100+ editors** to work with AI.
 
@@ -55,7 +55,8 @@ Today I help **students, career changers and teams** use AI with logic and purpo
 
 ## 🧰 What I work with
 
-**Quality engineering:** test strategy · test automation · Playwright · CI/CD · quality leadership<br>
+**Leadership:** engineering leadership · digital & AI transformation · building and growing teams · change management<br>
+**Engineering:** software delivery · test automation · Playwright · CI/CD<br>
 **AI:** prompt engineering · LLM evaluation · AI agents · AI enablement & training<br>
 **Research background:** machine learning · neural networks · Hidden Markov Models · sensor systems
 
