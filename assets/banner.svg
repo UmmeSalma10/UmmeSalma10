@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 320" width="1200" height="320">
+  <defs>
+    <linearGradient id="g" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#121a33"/><stop offset="1" stop-color="#1f2d55"/></linearGradient>
+    <radialGradient id="glow" cx=".82" cy=".4" r=".5"><stop offset="0" stop-color="#5fb3c4" stop-opacity=".35"/><stop offset="1" stop-color="#5fb3c4" stop-opacity="0"/></radialGradient>
+  </defs>
+  <rect width="1200" height="320" rx="22" fill="url(#g)"/>
+  <rect width="1200" height="320" rx="22" fill="url(#glow)"/>
+  <g stroke="#8fa6d6" stroke-opacity=".35" stroke-width="1.2" fill="none">
+    <path d="M880 70 L960 120 L1040 90 L1110 150 L1020 210 L940 180 L880 240 M960 120 L940 180 M1040 90 L1020 210 M1110 150 L1150 250"/>
+  </g>
+  <g fill="#cfe3ff">
+    <circle cx="880" cy="70" r="4"/><circle cx="960" cy="120" r="5"/><circle cx="1040" cy="90" r="4"/><circle cx="1110" cy="150" r="5"/>
+    <circle cx="1020" cy="210" r="4"/><circle cx="940" cy="180" r="4"/><circle cx="880" cy="240" r="3"/><circle cx="1150" cy="250" r="3"/>
+  </g>
+  <circle cx="960" cy="120" r="9" fill="#e8604c" opacity=".85"/>
+  <text x="70" y="92" fill="#7fd0dd" font-family="Helvetica, Arial, sans-serif" font-size="17" letter-spacing="3" font-weight="600">AI LITERACY &amp; CAREER COACHING</text>
+  <text x="68" y="170" fill="#f4f6fb" font-family="Georgia, 'Times New Roman', serif" font-size="68">Umme Salma<tspan fill="#e8604c">.</tspan></text>
+  <text x="70" y="222" fill="#c9d2e6" font-family="Georgia, 'Times New Roman', serif" font-size="27" font-style="italic">AI is our cognitive twin. It thinks with you, not instead of you.</text>
+  <text x="70" y="270" fill="#9aa8c7" font-family="Helvetica, Arial, sans-serif" font-size="17">Head of Quality Engineering  ·  15+ years in tech  ·  Based in Germany</text>
+</svg>
