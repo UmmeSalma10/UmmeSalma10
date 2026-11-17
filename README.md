@@ -5,7 +5,7 @@
 <h3 align="center">Yesterday we asked "What is AI?" · Today "What can we do with it?" · Tomorrow "Okay, now what next?"</h3>
 
 <p align="center">
-  <a href="https://okaynowwhatnext.com"><img src="https://img.shields.io/badge/Website-okaynowwhatnext.com-1f2d55?style=for-the-badge" alt="Website"></a>
+  <a href="https://mycognitwin.com/"><img src="https://img.shields.io/badge/Website-mycognitwin.com-1f2d55?style=for-the-badge" alt="Website"></a>
   <a href="https://www.linkedin.com/in/ummesalmaeiti"><img src="https://img.shields.io/badge/LinkedIn-Umme%20Salma-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
   <a href="https://x.com/Umme100"><img src="https://img.shields.io/badge/X-@Umme100-000000?style=for-the-badge&logo=x&logoColor=white" alt="X"></a>
   <a href="https://ummesalma10.github.io/pips-corner/"><img src="https://img.shields.io/badge/Play-Pip's%20Corner-F2C230?style=for-the-badge&logoColor=1B1E2B" alt="Pip's Corner"></a>
@@ -68,6 +68,6 @@ United Nations AI Summit, Zurich · Product-Led Summit, Amsterdam · AI Media Le
 ## 📬 Let's connect
 
 Want to start with AI, plan a workshop, or talk about a role in engineering leadership and AI enablement?
-Find me on **[LinkedIn](https://www.linkedin.com/in/ummesalmaeiti)** and **[X](https://x.com/Umme100)**, or book a free 30-minute call on **[my website](https://okaynowwhatnext.com)**.
+Find me on **[LinkedIn](https://www.linkedin.com/in/ummesalmaeiti)** and **[X](https://x.com/Umme100)**, or book a free 30-minute call on **[my website](https://mycognitwin.com/)**.
 
 <p align="center"><sub>Learning with AI, step by step 💡</sub></p>
