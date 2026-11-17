@@ -42,7 +42,7 @@ Today I help **students, career changers and teams** use AI with logic and purpo
 
 | | Project | What it is |
 |---|---|---|
-| 🌐 | **[okaynowwhatnext-website](https://github.com/UmmeSalma10/okaynowwhatnext-website)** | My coaching and portfolio website: courses, my story, and a free fun corner. Light and dark mode, no tracking, plain HTML/CSS/JS. |
+| 🌐 | **[mycognitwin-website](https://github.com/UmmeSalma10/mycognitwin-website)** | My coaching and portfolio website: courses, my story, and a free fun corner. Light and dark mode, no tracking, plain HTML/CSS/JS. |
 | 🎮 | **[pips-corner](https://github.com/UmmeSalma10/pips-corner)** | 10 free feel-good games with Pip the mascot: pop bubble wrap, punch a pillow, stack stones and more. **[▶ Play now](https://ummesalma10.github.io/pips-corner/)** |
 
 ## 🎓 What I teach
